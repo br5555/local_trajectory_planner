@@ -5,6 +5,9 @@
  * Booktitle =  2016 International Conference on Unmanned Aircraft Systems(ICUAS) 
  * Title =  Analytical time - optimal trajectory generation and control for multirotors 
 
+
+[CHECK C++ IMPLEMENTATION](https://github.com/br5555/Trajctory_paper)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
